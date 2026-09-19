@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "91049041b0b7840bb804296f",
+  "owner": "ssxywc54xcv",
+  "repo": "page-fc9838bde5c5673fb60bb1e8",
+  "title": "ByWave",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fc9838bde5c5673fb60bb1e8",
+      "a": "ByWave",
+      "b": "机场榜单Top1",
+      "entity": "ByWave",
+      "brand": "ByWave",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "85be4889dd4d9db363c5298f25c73cc84ee1f3e4ad11bf8b1d1bf04c968b9d99",
+      "content": {
+        "primary_entity": "ByWave",
+        "keyword1": "ByWave",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同系统适配的客户端各不相同，按设备类型选择即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后下载对应客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到连接",
+          "AI_DESCRIPTION": "，为跨境访问、流媒体解锁和多设备协同提供多档选择。基础版适合个人轻量使用，旗舰版覆盖全节点原生流媒体与 IPLC 专线游戏加速，团队版面向多设备并发与企业定制路由需求。按年付可显著降低月均成本，订阅导入后即可在对应客户端连接。",
+          "AI_FEATURES_INTRO": "结合套餐容量、设备台数与订阅周期，按实际使用场景做选择。",
+          "AI_FEATURES_TITLE": "选择前先看这三点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 到 1000GB 不等，按单人、家庭或团队用量对号入座。",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台到 20 台，手机、电脑与平板按需分配。",
+          "AI_FEATURE_TEXT_3": "按年付仅需 ¥150 起，比月付更省，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选择到连接，三步完成基础配置。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "ByWave 提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量、3 台至 20 台设备在线，支持流媒体解锁与 IPLC 专线游戏加速。按年付更划算，订阅导入后即可连接。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备按需选",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "3 台至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付低至 ¥150/年",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量消耗和同时在线设备数量，在基础版、旗舰版和团队版之间做出选择。",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端是否在支持范围内，并核对套餐中的设备台数与流量额度。",
+          "AI_STEP_TEXT_3": "下载对应客户端后，依照客户端文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ByWave 多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多人共用可选团队版，个人手机加电脑用基础版或旗舰版即可。",
+          "AI_FAQ_ANSWER_2": "可以。按年付仅需基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合长期使用。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池，旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版使用 VIP 专属高带宽节点，可根据用途选择。",
+          "AI_FAQ_ANSWER_4": "在订阅管理页面添加订阅地址后更新节点，不同客户端入口名称略有差异，可参考对应客户端文档完成配置。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，日常影音或多人共享都能覆盖。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "按年付是否比月付划算？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入后节点不更新怎么办？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁覆盖哪些版本？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "21708ea631c24eb0834f5d99d04cb8842060dbb1b3d915b2a213f201e9c6c88c",
+    "sitemap.xml": "d01af854f194544d498c5e0aba73e3ee0c1a1e37d380d1ad55deb5d55ff19f4b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "572b4e8b6d70b8ad2bbc9a7bc5dc5d2243674236f8727fb267bc00109ef5bb51"
+}
